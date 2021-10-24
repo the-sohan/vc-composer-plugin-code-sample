@@ -1,0 +1,252 @@
+
+
+/* Homepage Slider CSS*/
+.slide-absolute-img, .owl-carousel .owl-item img.slide-absolute-img {
+    width: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.wowshop-single-slide {
+    position: relative;
+    background-color: #f4f4f4;
+}
+
+.wowshop-slide-text-wrapper {
+    display: table;
+    height: 500px;
+}
+
+.wowshop-slide-text {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.wowshop-slide-text h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.wowshop-slide-text p{
+    width: 80%;
+}
+
+
+a.slide-btn.slide-btn-1 {
+    background-color: #333;
+    color: #fff;
+}
+
+a.slide-btn {
+    border: 1px solid #333;
+    color: #333;
+    padding: 12px 24px;
+    margin-right: 10px;
+}
+
+a.slide-btn-2 {
+    color: #333;
+}
+
+
+.slide-buttons {
+    margin-top: 40px;
+}
+
+
+
+.owl-nav div {
+    background: #333;
+    color: #fff;
+    height: 26px;
+    width: 26px;
+    text-align: center;
+    position: absolute;
+    top: 33%;
+    left: 0;
+    margin-top: 4px;
+}
+
+.owl-nav .owl-next {
+    left: auto;
+    right: 0;
+}
+
+.wowshop-slides .owl-nav div {
+    top: 50%;
+    margin-top: -13px;
+}
+
+
+
+/* Promo Css*/
+.wowshop-promo-box {
+    font-size: 28px;
+    font-weight: 300;
+    color: #222;
+    line-height: 45px;
+    position: relative;
+    padding-left: 150px;
+    text-align: center;
+}
+
+.wowshop-promo-box p {
+    margin: 0;
+}
+
+.wowshop-promo-box strong {
+    font-weight: 700;
+    color: #3d92ca;
+}
+
+a.promo-more-btn {
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+}
+
+.promo-icon-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: table;
+    text-align: left;
+    width: 127px;
+}
+
+.promo-icon-inner {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 15px;
+}
+
+.wowshop-promo-text {
+    padding: 60px 0;
+}
+
+/* prodeuct category shorcde/ addon css */
+
+a.single-ws-cat-item {
+    height: 280px;
+    display: table;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    margin: 15px 0;
+}
+
+.cat-title-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.cat-title-wrapper h2 {
+    display: inline-block;
+    font-size: 18px;
+    color: #666;
+    background-color: #fff;
+    margin: 0;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+}
+
+
+/* Shop now cta css */
+
+.product-shop-now-cta {
+    overflow: hidden;
+    background-color: #e3cebb;
+    position: relative;
+}
+.product-shop-now-cta img {
+    position: absolute;
+    left: 15%;
+    top: 0;
+    height: 100%;
+    width: auto;
+}
+.shop-now-text {
+    float: right;
+}
+
+.shop-now-text p {
+    font-size: 24px;
+    color: #333;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+a.shop-now-btn.boxed-btn {
+    display: inline-block;
+    background-color: #fff;
+    color: #333;
+    font-weight: 400;
+    padding: 8px 20px;
+}
+
+.shop-now-text {
+    padding: 50px 0;
+    width: 40%;
+}
+
+.shop-now-img {
+    width: 60%;
+    height: 100%;
+}
+
+.shop-now-img img {}
+
+
+/* Product Tab CSS */
+.wowshop-product-tab ul li a {
+    color: #333;
+    font-weight: 500;
+}
+
+.wowshop-product-tab .tab-content {
+    margin-top: 60px;
+}
+
+
+/* Blog Posts css*/
+
+.blog-inner-box {
+    padding: 0 30px;
+}
+
+.blog-thumbnail {
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+}
+
+.blog-box-meta > span {
+    margin-right: 30px;
+    font-size: 90%;
+}
+
+.blog-box-meta > span:last-child {
+    margin-right: 0;
+}
+
+.blog-box-meta {
+    margin: 20px 0;
+}
+
+.blog-inner-box h3 {
+    font-size: 19px;
+    text-transform: capitalize;
+    color: #333;
+}
+.blog-inner-box a {
+    color: #333;
+}
+
